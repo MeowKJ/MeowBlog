@@ -1,7 +1,7 @@
 ---
 title: 小气象喵温湿度监测仪
 published: 2024-07-31
-description: ''
+description: '使用 ESP32C3 微控制器和墨水屏显示器来监测和显示温湿度的项目。'
 image: './SimpleEInkEnvMonitor.jpg'
 tags: ['Hardware']
 category: 'Projects'
