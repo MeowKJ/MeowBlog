@@ -1,5 +1,5 @@
 ---
-title: SimpleEInkEnvMonitor
+title: 小气象喵温湿度监测仪
 published: 2024-07-31
 description: ''
 image: './SimpleEInkEnvMonitor.jpg'
@@ -10,9 +10,10 @@ draft: false
 
 ![SimpleEInkEnvMonitor](https://image.lceda.cn/pullimage/K0EeVsrXQP3DfGwQLachQURisxiBrE7BQpEHVpgk.png)
 
-::github{repo="MeowKJ/SimpleEInkEnvMonitor"}
 
 欢迎来到SimpleEInkEnvMonitor项目的介绍！这个项目是一个基于ESP32和e-ink屏幕的环境监测器，专门设计用于测量温度和湿度。
+
+::github{repo="MeowKJ/SimpleEInkEnvMonitor"}
 
 ## 项目背景
 
