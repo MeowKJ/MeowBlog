@@ -1,5 +1,5 @@
 ---
-title: 小气象喵温湿度监测仪
+title: 小气象喵温湿度检测仪
 published: 2024-07-31
 description: '使用 ESP32C3 微控制器和墨水屏显示器来监测和显示温湿度的项目。'
 image: './SimpleEInkEnvMonitor.jpg'
@@ -17,7 +17,7 @@ draft: false
 
 ## 项目背景
 
-SimpleEInkEnvMonitor是来自立创EDA温湿度传感器训练营，要求使用盛思锐传感器完成一个温湿度检测的小项目。
+SimpleEInkEnvMonitor是来自立创EDA温湿度检测仪训练营，要求使用盛思锐传感器完成一个温湿度检测的小项目。
 
 ## 主要特点
 
